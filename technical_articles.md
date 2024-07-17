@@ -1,7 +1,7 @@
 ---
-layout: technical articles
-title: "Unmasking Bias in AI"
-description: "Read about bias in AI"
+layout: default
+title: "Technical Articles"
+description: "Read about must know topics in tech"
 ---
 
 ## Article 1
