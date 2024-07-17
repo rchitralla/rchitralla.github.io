@@ -1,10 +1,10 @@
 ---
 layout: project
-title: "Project 1: Cyberrisk Self Assessment"
+title: "Project 1: Network Cyberrisk Self Assessment"
 description: "Check your level of risk"
 ---
 
-## Project One
+## Project 1: Network Cyberrisk Self Assessment
 
 ### Overview
 The self assessment is a web application built using Python and Streamlit.
