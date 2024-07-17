@@ -20,7 +20,7 @@ The self assessment is a web application built using Python and Streamlit.
 - Risk Calculation Logic
 
 ### Live Demo
-[[Live Demo](https://example.com/project1)](https://cyberrisk-assessment.streamlit.app/)
+[[Live Demo]](https://cyberrisk-assessment.streamlit.app/)
 
 ### Source Code
-[[GitHub Repository](https://github.com/username/project1)](https://github.com/rchitralla/CyberRisk/blob/main/app.py)
+[[GitHub Repository]](https://github.com/rchitralla/CyberRisk/blob/main/app.py)
