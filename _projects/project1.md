@@ -1,31 +1,26 @@
 ---
 layout: project
-title: "Project One"
-description: "Description of Project One"
+title: "Project 1: Cyberrisk Self Assessment"
+description: "Check your level of risk"
 ---
 
 ## Project One
 
 ### Overview
-Project One is a web application built using React and Node.js that allows users to track their tasks.
+The self assessment is a web application built using Python and Streamlit.
 
 ### Technologies Used
-- React
-- Node.js
-- Express
-- MongoDB
+- Python
+- Streamlit
 
 ### Features
-- User authentication
-- CRUD operations for tasks
+- Radio Buttons for User Input
+- Dynamic Feedback
 - Responsive design
-
-### Screenshots
-![Screenshot 1](/assets/images/project1_screenshot1.png)
-![Screenshot 2](/assets/images/project1_screenshot2.png)
+- Risk Calculation Logic
 
 ### Live Demo
-[Live Demo](https://example.com/project1)
+[[Live Demo](https://example.com/project1)](https://cyberrisk-assessment.streamlit.app/)
 
 ### Source Code
-[GitHub Repository](https://github.com/username/project1)
+[[GitHub Repository](https://github.com/username/project1)](https://github.com/rchitralla/CyberRisk/blob/main/app.py)
