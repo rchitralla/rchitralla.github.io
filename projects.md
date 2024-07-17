@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Project 1: Cyberrisk Self Assessment"
+title: "Project 1: Network Cyberrisk Self Assessment"
 description: "Check your level of risk"
 ---
 
