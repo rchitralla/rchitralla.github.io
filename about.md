@@ -36,8 +36,8 @@ A Streamlit app which leverages OpenAI's GPT-3.5-turbo to emulate "John," a witt
 - Develop my own SaaS products to solve everyday problems.
 
 ## 📫 Get in Touch
-- **Email:** (chitralla.consulting@gmail.com](mailto:chitralla.consulting@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/regina-chitralla-3a5034134/)
+- **Email:** [chitralla.consulting@gmail.com](mailto:chitralla.consulting@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/regina-chitralla-3a5034134/]
 
 ## 🌟 Fun Fact
 In my free time, I enjoy Martial Arts, cooking, and experimenting with home automation projects.
