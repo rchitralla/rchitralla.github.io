@@ -22,7 +22,7 @@ My expertise lies in combining strategic thinking with cutting-edge tools to del
 ### [**Automated Reporting System**](https://lucid.app/lucidchart/e9cdd305-1618-4f9f-9516-8a6e2dabd737/edit?viewport_loc=-1390%2C-1105%2C3642%2C1980%2C0_0&invitationId=inv_9cde033b-317b-4e95-ac38-f522afb80681)
 Developed a fully automated reporting system using Python and BigQuery to generate and distribute weekly business performance reports, reducing manual effort by 100%.
 
-### [**Project Stargate: AI Psychic Fortune Teller**] – (https://github.com/rchitralla/PsychicAI/edit/main/app.py) that leverages OpenAI's GPT-3.5-turbo to emulate "John," a witty and philosophical AI persona, providing users with personalized fortune-telling insights.
+### [**Project Stargate: AI Psychic Fortune Teller**](https://github.com/rchitralla/PsychicAI/edit/main/app.py) that leverages OpenAI's GPT-3.5-turbo to emulate "John," a witty and philosophical AI persona, providing users with personalized fortune-telling insights.
 
 ## 📈 Currently Learning
 - Cloud Data Engineering: Enhancing expertise in tools like AWS Glue and GCP Dataflow to build scalable data pipelines.
