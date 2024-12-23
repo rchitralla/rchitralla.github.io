@@ -25,11 +25,16 @@ Developed a fully automated reporting system using Python and BigQuery to genera
 ### [**Project Stargate: AI Psychic Fortune Teller**] – ([https://github.com/rchitralla/PsychicAI/edit/main/app.py]) that leverages OpenAI's GPT-3.5-turbo to emulate "John," a witty and philosophical AI persona, providing users with personalized fortune-telling insights.
 
 ## 📈 Currently Learning
--
+-Advanced Machine Learning Techniques (e.g., Reinforcement Learning, Natural Language Processing)
+- Cloud Data Engineering (AWS Glue, GCP Dataflow)
+- Kubernetes for Scalable Deployments
+- Advanced Visualization Tools (D3.js, custom extensions)
+- Programming for Automation and AI (Rust or Go)
+- Data Governance and Compliance (GDPR advanced)
 
 ## 🎯 Goals
 - Contribute to open-source projects that make a positive impact.
-- Help my clients to become efficient and make great decissions. 
+- Helping my clients to become efficient and make great decissions. 
 - Develop my own SaaS products to solve everyday problems.
 
 ## 📫 Get in Touch
