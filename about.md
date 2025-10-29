@@ -6,8 +6,7 @@ permalink: /about/
 
 # Hi, I'm Regina Chitralla
 
-I'm a hands-on data analytics engineer. I specialize in designing scalable, automated data systems that streamline decision-making and save businesses significant time and resources. 
-My expertise lies in combining strategic thinking with the right tools to deliver measurable results—whether that’s reducing data processing time, optimizing analytics workflows, or enabling companies to scale efficiently. I’m not just solving immediate challenges; I’m building solutions that drive long-term impact.
+I'm a hands-on data analytics engineer. I specialize in designing scalable, automated data systems that streamline decision-making and save businesses significant time and resources. My expertise lies in combining strategic thinking with the right tools to deliver measurable results—whether that's reducing data processing time, optimizing analytics workflows, or enabling companies to scale efficiently. I'm not just solving immediate challenges; I'm building solutions that drive long-term impact.
 
 ## 🛠️ Skills
 
