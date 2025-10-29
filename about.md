@@ -10,11 +10,11 @@ I'm a hands-on data analytics engineer. I specialize in designing scalable, auto
 
 ## 🛠️ Skills
 
-- **Languages:** Python, R, SQL
-- **Dashboards:** Looker Studio, Power BI, Spotfire
-- **Databases:** BigQuery, PostgreSQL, MySQL
-- **Tools:** Git, Docker, AWS, Tableau, Apache Spark, Airflow
-- **Others:** Data Modeling, ETL Processes, Machine Learning, Data Visualization
+**Top Skills:** Data Integration, Project Management, Analytical Skills, Problem-Solving, Process Design, Data Engineering, Automation, Cloud Security
+
+**Languages:** Python, SQL, R, Excel
+
+**Tools:** BigQuery, Power BI, Tableau, Google Looker Studio, Google Analytics, Google Ads, Azure, Excel, Git, Docker, Spotfire
 
 ## 🚀 Projects
 
