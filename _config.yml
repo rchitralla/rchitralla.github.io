@@ -3,8 +3,3 @@ description: Portfolio of Regina Chitralla showcasing programming projects and p
 baseurl: ""
 url: "https://rchitralla.github.io"
 theme: jekyll-theme-modernist
-include:
-  - projects
-collections:
-  projects:
-    output: true
