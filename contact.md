@@ -8,3 +8,4 @@ permalink: /contact/
 
 - **Email**: [chitralla.consulting@gmail.com](mailto:chitralla.consulting@gmail.com)
 - **[LinkedIn](https://www.linkedin.com/in/regina-chitralla-3a5034134)**
+- **Website**: [chitrallaconsulting.com](https://chitrallaconsulting.com)
