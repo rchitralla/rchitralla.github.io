@@ -1,5 +1,9 @@
-title: Regina Chitralla's Portfolio
-description: Portfolio of Regina Chitralla showcasing programming projects and professional experience.
+title: Regina Chitralla
+description: Technical Project Manager and Data Analytics Consultant. Portfolio, experience, and technical articles.
 baseurl: ""
 url: "https://rchitralla.github.io"
-theme: jekyll-theme-modernist
+lang: en
+author: Regina Chitralla
+
+plugins:
+  - jekyll-seo-tag
