@@ -35,7 +35,7 @@ A Streamlit app that uses OpenAI's GPT-3.5-turbo to emulate "John," a witty and 
 - Help my clients become more efficient and make great decisions.
 
 ## 📫 Get in Touch
-- **Email:** [chitralla.consulting@gmail.com](mailto:chitralla.consulting@gmail.com)
+- **Email:** [rchitralla@chitrallaconsulting.com](mailto:rchitralla@chitrallaconsulting.com)
 - **LinkedIn:** [Regina Chitralla](https://www.linkedin.com/in/regina-chitralla-3a5034134/)
 - **Website:** [chitrallaconsulting.com](https://chitrallaconsulting.com)
 
