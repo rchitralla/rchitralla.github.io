@@ -6,15 +6,21 @@ permalink: /about/
 
 # Hi, I'm Regina Chitralla
 
-I solve complex data challenges by designing scalable, automated systems that enhance analytics, speed up decision-making, and deliver measurable results.
+Data Analytics Consultant with a security-first approach to everything I build. My work sits at the intersection of project management, data engineering, data analytics and AI governance – building systems where compliance isn't an afterthought but the architecture itself.
+
+Before consulting, I spent 5 years at Nielsen scaling global quality processes for 500+ employees and automating them with Python and RPA. I then led healthcare analytics for a Health Data Start-Up – 16 interactive dashboards, end-to-end from raw CSV to clinical decisions.
+
+I help organizations move faster without breaking trust.
 
 ## 🛠️ Skills
 
-**Top Skills:** Data Integration, Project Management, Analytical Skills, Problem-Solving, Process Design, Data Engineering, Automation, Cloud Security
+**Top Skills:** Root Cause Analysis, Data Transformation, AI Governance, Data Integration, Project Management, Process Design, Data Engineering, Automation, Cloud Security
 
-**Languages:** Python, SQL, R, Excel
+**Security:** Cyber incident response – log analysis, threat classification, data classification, and resilience playbooks. Backup strategies meeting cyber insurance requirements. Secure data architectures with access controls, audit trails, and GDPR compliance across multiple jurisdictions.
 
-**Tools:** BigQuery, Power BI, Tableau, Google Looker Studio, Google Analytics, Google Ads, Azure, Excel, Git, Docker, Spotfire
+**Stack:** Python, SQL, R, BigQuery, Streamlit, Git, Power BI, Tableau, Google Looker Studio, Spotfire, Google Analytics, Google Ads, Azure, Docker, Excel
+
+**Languages:** German (native), English (native), Dutch (working), French (learning over coffee)
 
 ## 🚀 Projects
 
@@ -31,6 +37,9 @@ A Streamlit app that uses OpenAI's GPT-3.5-turbo to emulate "John," a witty and 
 ## 📫 Get in Touch
 - **Email:** [chitralla.consulting@gmail.com](mailto:chitralla.consulting@gmail.com)
 - **LinkedIn:** [Regina Chitralla](https://www.linkedin.com/in/regina-chitralla-3a5034134/)
+- **Website:** [chitrallaconsulting.com](https://chitrallaconsulting.com)
+
+Coffee's on me – in person or online. ☕
 
 ## 🌟 Fun Fact
 In my free time, I enjoy Martial Arts, cooking, and experimenting with home automation projects.
